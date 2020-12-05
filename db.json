@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "arm": [
         {
             "id": 1,
             "title": "Dumbbell curls",
@@ -35,7 +35,7 @@
             "Targets": "triceps and shoulders",
             "Reps": "Repeat 10 to 15 times",
             "Sets": "2 to 3 sets",
-            "imageUrl":"",
+            "imageUrl": "",
             "procedure": [
                 "Sit on a sturdy chair. Place your arms at your sides and your feet flat on the floor.",
                 "Place your palms facing down beside your hips and grip the front of the seat.",
@@ -45,7 +45,7 @@
             ]
         }
     ],
-    "back":[
+    "back": [
         {
             "id": 1,
             "title": "Resistance band pull apart",
@@ -54,10 +54,10 @@
             "Sets": "2 to 3 sets",
             "imageUrl": "",
             "procedure": [
-              "Stand with your arms out in front of you at chest height.",
-              "Hold a resistance band tightly between your hands so the band is parallel to the ground.",
-              "Keeping both arms straight, pull the band toward your chest by moving your arms outward. Initiate this motion from your mid-back.",
-              "Keep your spine straight as you squeeze your shoulder blades together. Pause briefly, then slowly return to the starting position."
+                "Stand with your arms out in front of you at chest height.",
+                "Hold a resistance band tightly between your hands so the band is parallel to the ground.",
+                "Keeping both arms straight, pull the band toward your chest by moving your arms outward. Initiate this motion from your mid-back.",
+                "Keep your spine straight as you squeeze your shoulder blades together. Pause briefly, then slowly return to the starting position."
             ]
         },
         {
@@ -68,11 +68,11 @@
             "Sets": "2 to 3 sets",
             "imageUrl": "",
             "procedure": [
-              "Grab a dumbbell in each hand and stand with your feet shoulder-width apart.",
-              "Bend your knees slightly and bring your torso forward by bending at the waist. Your arms should be extended with the dumbbells close to your knees. Keep your core engaged throughout the movement.",
-              "Keeping your upper body still, engage the muscles in your back, bend your arms, and pull the dumbbells up to your side. Aim for your ribcage.",
-              "Pause and squeeze at the top.",
-              "Slowly lower the weights to the starting position."
+                "Grab a dumbbell in each hand and stand with your feet shoulder-width apart.",
+                "Bend your knees slightly and bring your torso forward by bending at the waist. Your arms should be extended with the dumbbells close to your knees. Keep your core engaged throughout the movement.",
+                "Keeping your upper body still, engage the muscles in your back, bend your arms, and pull the dumbbells up to your side. Aim for your ribcage.",
+                "Pause and squeeze at the top.",
+                "Slowly lower the weights to the starting position."
             ]
         },
         {
@@ -83,11 +83,70 @@
             "Sets": "2 to 3 sets",
             "imageUrl": "",
             "procedure": [
-              "Stand with your butt, upper back, shoulders, and head pressed firmly against a wall. Your feet can be slightly away from the wall to help you position your body correctly. Keep your knees slightly bent.",
-              "Stretch your arms straight above your head with the backs of your hands against the wall. This is your starting position.",
-              "Squeeze the muscles of your mid-back as you slide your arms down toward your shoulders. Keep your body pressed firmly against the wall throughout the movement.",
-              "Slide your arms down the wall until they’re slightly lower than your shoulders. Briefly hold this position, then slide your arms back up to the starting position while still pressed against the wall.",
-              ""
+                "Stand with your butt, upper back, shoulders, and head pressed firmly against a wall. Your feet can be slightly away from the wall to help you position your body correctly. Keep your knees slightly bent.",
+                "Stretch your arms straight above your head with the backs of your hands against the wall. This is your starting position.",
+                "Squeeze the muscles of your mid-back as you slide your arms down toward your shoulders. Keep your body pressed firmly against the wall throughout the movement.",
+                "Slide your arms down the wall until they’re slightly lower than your shoulders. Briefly hold this position, then slide your arms back up to the starting position while still pressed against the wall.",
+                ""
+            ]
+        }
+    ],
+    "chest": [
+        {
+            "id": 1,
+            "title": "Chest press",
+            "Targets": "chest, shoulders, triceps",
+            "Reps": "Repeat 10 to 15 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl": "",
+            "procedure": [
+                "Lie down on an exercise mat with knees bent and a light dumbbell in each hand. You can also do this exercise on a bench.",
+                "Extend elbows to a 90-degree position with the back of your arms resting on the floor. The dumbbells should be over your chest.",
+                "Take a deep breath and when you exhale, extend your arms up until the dumbbells almost touch.",
+                "Pause, then return to the starting position."
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Mountain climbers",
+            "Targets": "chest, shoulders, arms, core, and back",
+            "Reps": "Repeat for 20 to 40 seconds",
+            "Sets": "2 to 3 sets",
+            "imageUrl": "",
+            "procedure": [
+                "Get in a plank or pushup position. Keep your hands under your shoulders, with your core and glutes engaged, hips in line with shoulders, feet hip-width apart.",
+                "Quickly bring your right knee in towards the chest. As you drive it back, pull the left knee in toward your chest.",
+                "Alternate back and forth between legs at a quick pace."
+            ]
+        }
+    ],
+    "shoulder": [
+        {
+            "id": 1,
+            "title": "Dumbbell front raise",
+            "Targets": "shoulders, specifically the anterior deltoid muscles",
+            "Reps": "Repeat 10 to 15 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl": "",
+            "procedure": [
+                "Grasp a light dumbbell in each hand.",
+                "Position the dumbbells in front of your upper legs with your elbows straight or slightly bent.",
+                "Raise dumbbells forward and upward until upper arms are above horizontal.",
+                "Lower to the starting position."
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Deltoid raise",
+            "Targets": "shoulders, biceps, and triceps",
+            "Reps": "Repeat 10 to 15 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl": "",
+            "procedure": [
+                "Stand with feet hip-width apart, knees slightly bent. Hold dumbbells along your body, palms facing your thighs.",
+                "Lean forward slightly at the waist and engage your core.",
+                "Lift your arms out to the side until they reach shoulder level and form a “T.”",
+                "Return to the starting position."
             ]
         }
     ],
