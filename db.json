@@ -1,12 +1,25 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+        {
+            "id": 1,
+            "title": "hello"
+        },
+        {
+            "id": 1,
+            "title": "Dumbbell curls",
+            "Targets": "biceps",
+            "Reps": "Repeat 10 to 15 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl": "",
+            "procedure": [
+                "Stand or sit with a dumbbell in each hand, arms at your side, feet shoulder-width apart.",
+                "Keep your elbows close to your torso and rotate the dumbbells so the palms of your hands are facing your body. This is your starting position.",
+                "Take a deep breath and when you exhale, curl the weights upward while contracting your biceps.",
+                "Pause at the top of the curl, then lower to the starting position."
+            ]
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     }
-  }
-
+}
