@@ -45,6 +45,52 @@
             ]
         }
     ],
+    "back":[
+        {
+            "id": 1,
+            "title": "Resistance band pull apart",
+            "Targets": "back, biceps, triceps, and shoulders",
+            "Reps": "Repeat 10 to 15 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl": "",
+            "procedure": [
+              "Stand with your arms out in front of you at chest height.",
+              "Hold a resistance band tightly between your hands so the band is parallel to the ground.",
+              "Keeping both arms straight, pull the band toward your chest by moving your arms outward. Initiate this motion from your mid-back.",
+              "Keep your spine straight as you squeeze your shoulder blades together. Pause briefly, then slowly return to the starting position."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Two-arm dumbbell row",
+            "Targets": "back, biceps, triceps, and shoulders",
+            "Reps": "Repeat 10 to 12 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl": "",
+            "procedure": [
+              "Grab a dumbbell in each hand and stand with your feet shoulder-width apart.",
+              "Bend your knees slightly and bring your torso forward by bending at the waist. Your arms should be extended with the dumbbells close to your knees. Keep your core engaged throughout the movement.",
+              "Keeping your upper body still, engage the muscles in your back, bend your arms, and pull the dumbbells up to your side. Aim for your ribcage.",
+              "Pause and squeeze at the top.",
+              "Slowly lower the weights to the starting position."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Two-arm dumbbell row",
+            "Targets": "back, biceps, triceps, and shoulders",
+            "Reps": "Repeat 10 to 20 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl": "",
+            "procedure": [
+              "Stand with your butt, upper back, shoulders, and head pressed firmly against a wall. Your feet can be slightly away from the wall to help you position your body correctly. Keep your knees slightly bent.",
+              "Stretch your arms straight above your head with the backs of your hands against the wall. This is your starting position.",
+              "Squeeze the muscles of your mid-back as you slide your arms down toward your shoulders. Keep your body pressed firmly against the wall throughout the movement.",
+              "Slide your arms down the wall until they’re slightly lower than your shoulders. Briefly hold this position, then slide your arms back up to the starting position while still pressed against the wall.",
+              ""
+            ]
+        }
+    ],
     "profile": {
         "name": "wanjema"
     }
