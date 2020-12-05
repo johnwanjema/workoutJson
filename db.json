@@ -1,11 +1,48 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "Arm exercises": [
+        {
+            "id": 1,
+            "title": "Dumbbell curls",
+            "Targets": "biceps",
+            "Reps": "Repeat 10 to 15 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl":"",
+            "procedure": [
+                "Stand or sit with a dumbbell in each hand, arms at your side, feet shoulder-width apart.",
+                "Keep your elbows close to your torso and rotate the dumbbells so the palms of your hands are facing your body. This is your starting position.",
+                "Take a deep breath and when you exhale, curl the weights upward while contracting your biceps.",
+                "Pause at the top of the curl, then lower to the starting position."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Triceps kickback",
+            "Targets": "triceps",
+            "Reps": "Repeat 10 to 15 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl":"",
+            "procedure": [
+               "Stand with a dumbbell in each hand, palms facing in toward each other. Keep your knees slightly bent.",
+               "Keeping your spine straight, hinge forward at your waist so your torso is almost parallel to the floor. Engage your core.               ",
+               "Keep your head in line with your spine, upper arms close to your body, and your forearms bent forward.",
+               "As you exhale, hold your upper arms still while you straighten your elbows by pushing your forearms backward and engaging your triceps.",
+               "Pause then inhale and return to the starting position.",
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Triceps dip",
+            "Targets": "triceps and shoulders",
+            "Reps": "Repeat 10 to 15 times",
+            "Sets": "2 to 3 sets",
+            "imageUrl":"",
+            "procedure": [
+                "Sit on a sturdy chair. Place your arms at your sides and your feet flat on the floor.",
+                "Place your palms facing down beside your hips and grip the front of the seat.",
+                "Move your body off the chair while gripping the seat. Knees should be slightly bent and your glutes should hover over the floor. Your arms should be fully extended, supporting your weight.",
+                "Inhale and lower your body until your elbows form a 90-degree angle.",
+                "Pause at the bottom, exhale, then push your body up to the starting position, squeezing your triceps at the top."
+            ]
+        }
+    ]
+}
